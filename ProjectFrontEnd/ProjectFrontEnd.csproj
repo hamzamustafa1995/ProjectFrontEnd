@@ -139,6 +139,7 @@
     <Content Include="Scripts\ajax\AjaxRequest.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\CvTemplateJs.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
@@ -166,6 +167,7 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+    <Content Include="StyleSheet\Cv_Template.css" />
     <Content Include="StyleSheet\HomePage.css" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
