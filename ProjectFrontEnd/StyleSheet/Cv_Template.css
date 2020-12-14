@@ -108,7 +108,7 @@
     height: 100%;
     width: 0;
     position: fixed;
-    z-index: 1;
+    z-index: 2;
     top: 0;
     left: 0;
     background-color: #111;
@@ -141,7 +141,7 @@
 #boxObjective, #boxProjects, #boxExperience, #boxSkills {
     border: 1px solid #fff;
     padding: 10px;
-    width: 68%;
+    width: auto;
     margin: 30px;
     padding: 0px;
     margin-left: 300px;
@@ -165,7 +165,7 @@ li {
 }
 
     #first #second {
-        width: 28%;
+        width: auto;
         height: 100%;
         display: inline-block;
         background: green;
@@ -173,11 +173,14 @@ li {
     }
 
 #DeatilsJob {
-    width: 679px;
+    width: 300px;
+    height: 86px;
     display: inline-block;
     padding-top: 27px;
+    /* white-space: nowrap; */
+    text-overflow: ellipsis;
     font-family: cursive;
-    float: right;
+    overflow: hidden;
 }
 /*Image of the project*/
 .row > .column {
