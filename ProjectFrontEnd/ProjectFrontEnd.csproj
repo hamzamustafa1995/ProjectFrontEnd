@@ -110,6 +110,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="CV Template Professional.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -125,6 +126,7 @@
     <Content Include="Image\600px-Facebook_icon.svg.png" />
     <Content Include="Image\headerFlash.jpg" />
     <Content Include="Image\London_Tower_Bridge_City.webp" />
+    <Content Include="libman.json" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Image\119046308_3427483690663735_4504422467764632414_n.jpg" />
     <Content Include="Image\55425108.jpg" />
